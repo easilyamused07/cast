@@ -1,0 +1,40 @@
+{
+  "questionlist":[
+    {
+      "cardfront":"Acceptance Criteria",
+      "cardback":"A key prerequisite for test planning is clear understanding of what must be accomplished for the test project to be deemed successful."
+    },
+    {
+      "cardfront":"Acceptance Testing",
+      "cardback":"The objective of acceptance testing is to determine throughout the development cycle that all aspects of the development process meet the user's needs."
+    },
+    {
+      "cardfront":"Act",
+      "cardback":"If your checkup reveals that the work is not being performed according to plan or that results are not as anticipated devise measures for appropirate action"
+    },
+    {
+      "cardfront":"Access Modeling",
+      "cardback":"Used to verify that data requirements support the data demands of process requirements represented in data flow diagrams and process specifications"
+    },
+    {
+      "cardfront":"Active Risk",
+      "cardback":"Risk that is deliberately taken on. For example the choice to develop a new product that may not be successful in the marketplace"
+    },
+    {
+      "cardfront":"Actors",
+      "cardback":"Interfaces in a system boundary diagram"
+    },
+    {
+      "cardfront":"Alternate Path",
+      "cardback":"Additional testable conditions are derived from the expectations and alternative course of the Use Case"
+    },
+    {
+      "cardfront":"Affinity Diagram",
+      "cardback":"A group process that takes large amounts of language data such as a list developed by brainstorming and divides it into categories"
+    },
+    {
+      "cardfront":"Analogous",
+      "cardback":"The analogy model is a nonalgorithmic costing model that estimates the size, effort, or cost of a project by relating it to another similar completed project. Analogous estimating tkes actual time and/or cost of historical project as a basis for the current project."
+    }
+  ]
+}
